@@ -1,0 +1,362 @@
+{
+    "MapName": "ChernarusPlus",
+    "CameraPosition": [
+        14533.58203125,
+        35.971466064453128,
+        8961.005859375
+    ],
+    "Year": 0,
+    "Month": 0,
+    "Day": 0,
+    "Hour": 0,
+    "Minute": 0,
+    "Second": 0,
+    "Overcast0": 0.0,
+    "Fog0": 0.0,
+    "Rain0": 0.0,
+    "EditorObjects": [
+        {
+            "Uuid": "",
+            "Type": "Land_Container_1Aoh",
+            "DisplayName": "Land_Container_1Aoh",
+            "Position": [
+                14476.2685546875,
+                1.3570709228515626,
+                8987.6904296875
+            ],
+            "Orientation": [
+                24.59999656677246,
+                -9.499917984008789,
+                -30.100000381469728
+            ],
+            "Scale": 0.9999986886978149,
+            "Flags": 2147483647,
+            "m_Id": 1695
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Container_1Bo",
+            "DisplayName": "Land_Container_1Bo",
+            "Position": [
+                14501.8876953125,
+                -2.0260162353515627,
+                8991.88671875
+            ],
+            "Orientation": [
+                18.000003814697267,
+                -15.499998092651368,
+                -7.500000476837158
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647,
+            "m_Id": 1696
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Container_1Moh",
+            "DisplayName": "Land_Container_1Moh",
+            "Position": [
+                14486.2841796875,
+                -0.3555145263671875,
+                8983.1298828125
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647,
+            "m_Id": 1697
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Container_1Mo",
+            "DisplayName": "Land_Container_1Mo",
+            "Position": [
+                14484.138671875,
+                1.4373016357421876,
+                8986.3212890625
+            ],
+            "Orientation": [
+                -35.999996185302737,
+                -19.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647,
+            "m_Id": 1698
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Container_1Bo",
+            "DisplayName": "Land_Container_1Bo",
+            "Position": [
+                14468.7490234375,
+                -0.6326446533203125,
+                8990.16796875
+            ],
+            "Orientation": [
+                100.89997863769531,
+                5.999946594238281,
+                4.500000953674316
+            ],
+            "Scale": 0.9999986886978149,
+            "Flags": 2147483647,
+            "m_Id": 1699
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Container_1Aoh",
+            "DisplayName": "Land_Container_1Aoh",
+            "Position": [
+                14471.5166015625,
+                -3.012298583984375,
+                8965.7666015625
+            ],
+            "Orientation": [
+                54.49999237060547,
+                -21.4999942779541,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647,
+            "m_Id": 1700
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Container_1Bo",
+            "DisplayName": "Land_Container_1Bo",
+            "Position": [
+                14480.4052734375,
+                -1.965179443359375,
+                8966.7646484375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999982118606567,
+            "Flags": 2147483647,
+            "m_Id": 1701
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Container_1Aoh",
+            "DisplayName": "Land_Container_1Aoh",
+            "Position": [
+                14464.5888671875,
+                -2.3121337890625,
+                8976.6767578125
+            ],
+            "Orientation": [
+                -35.999996185302737,
+                -16.5,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647,
+            "m_Id": 1702
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Ship_Big_FrontA",
+            "DisplayName": "Land_Ship_Big_FrontA",
+            "Position": [
+                14497.2529296875,
+                15.501035690307618,
+                9008.72265625
+            ],
+            "Orientation": [
+                -44.525489807128909,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999914169311523,
+            "Flags": 2147483647,
+            "m_Id": 1703
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Ship_Big_FrontB",
+            "DisplayName": "Land_Ship_Big_FrontB",
+            "Position": [
+                14484.7607421875,
+                14.005460739135743,
+                8993.1708984375
+            ],
+            "Orientation": [
+                -44.525264739990237,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999892711639404,
+            "Flags": 2147483647,
+            "m_Id": 1704
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Ship_Big_BackA",
+            "DisplayName": "Land_Ship_Big_BackA",
+            "Position": [
+                14443.36328125,
+                14.856992721557618,
+                8984.5185546875
+            ],
+            "Orientation": [
+                23.36617088317871,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999915361404419,
+            "Flags": 2147483647,
+            "m_Id": 1705
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Ship_Big_BackB",
+            "DisplayName": "Land_Ship_Big_BackB",
+            "Position": [
+                14425.6982421875,
+                13.364624977111817,
+                8992.7587890625
+            ],
+            "Orientation": [
+                23.91715431213379,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.999993085861206,
+            "Flags": 2147483647,
+            "m_Id": 1706
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Ship_Big_Castle",
+            "DisplayName": "Land_Ship_Big_Castle",
+            "Position": [
+                14436.0888671875,
+                23.544034957885743,
+                8988.1552734375
+            ],
+            "Orientation": [
+                23.39989471435547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999909400939941,
+            "Flags": 2147483647,
+            "m_Id": 1707
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Container_1Aoh",
+            "DisplayName": "Land_Container_1Aoh",
+            "Position": [
+                14462.4814453125,
+                -0.7905254364013672,
+                8996.9306640625
+            ],
+            "Orientation": [
+                162.49993896484376,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647,
+            "m_Id": 1708
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Ship_Big_FrontA",
+            "DisplayName": "Land_Ship_Big_FrontA",
+            "Position": [
+                14477.5439453125,
+                6.255992889404297,
+                8936.1416015625
+            ],
+            "Orientation": [
+                -123.42401123046875,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647,
+            "m_Id": 1719
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Ship_Big_FrontB",
+            "DisplayName": "Land_Ship_Big_FrontB",
+            "Position": [
+                14490.4091796875,
+                4.760395050048828,
+                8920.8662109375
+            ],
+            "Orientation": [
+                -123.42399597167969,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999987483024597,
+            "Flags": 2147483647,
+            "m_Id": 1720
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Ship_Big_BackA",
+            "DisplayName": "Land_Ship_Big_BackA",
+            "Position": [
+                14520.01171875,
+                -12.296808242797852,
+                8891.5810546875
+            ],
+            "Orientation": [
+                -138.4596710205078,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999955296516419,
+            "Flags": 2147483647,
+            "m_Id": 1721
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Ship_Big_BackB",
+            "DisplayName": "Land_Ship_Big_BackB",
+            "Position": [
+                14534.2236328125,
+                -13.789520263671875,
+                8878.2177734375
+            ],
+            "Orientation": [
+                -137.90870666503907,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999969601631165,
+            "Flags": 2147483647,
+            "m_Id": 1722
+        },
+        {
+            "Uuid": "",
+            "Type": "Land_Ship_Big_Castle",
+            "DisplayName": "Land_Ship_Big_Castle",
+            "Position": [
+                14525.7783203125,
+                -3.6100597381591799,
+                8885.8369140625
+            ],
+            "Orientation": [
+                -138.42628479003907,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999958276748657,
+            "Flags": 2147483647,
+            "m_Id": 1723
+        }
+    ],
+    "EditorHiddenObjects": []
+}
